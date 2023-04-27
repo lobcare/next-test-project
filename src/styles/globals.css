@@ -1,0 +1,26 @@
+.layout {
+    display: flex;
+    justify-content: center;
+}
+
+.login-card {
+    width: 550px;
+    text-align: center;
+    padding: 20px 0px;
+    margin-top: 50px;
+    background-color: #f3f3f3;
+    box-shadow: rgb(144, 233, 184) 1px 1px 7px 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    width: 400px;
+}
+
+.input {
+   width: 100%;
+   padding: 5px 10px;
+}
